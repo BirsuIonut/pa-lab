@@ -1,0 +1,19 @@
+{
+  "name": "dfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.149",
+    "fibonacci-heap": "^0.0.4",
+    "js-priority-queue": "^0.1.5",
+    "lodash": "^4.17.15",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "dfs": "ts-node dfs.ts",
+    "ap": "ts-node articulation_point.ts",
+    "dj": "ts-node djikstra.ts"
+  }
+}
