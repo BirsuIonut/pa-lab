@@ -14,6 +14,7 @@
   "scripts": {
     "dfs": "ts-node dfs.ts",
     "ap": "ts-node articulation_point.ts",
-    "dj": "ts-node djikstra.ts"
+    "dj": "ts-node djikstra.ts",
+    "ama": "ts-node ama.ts"
   }
 }
